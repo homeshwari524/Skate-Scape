@@ -11,8 +11,6 @@ SkateScape is an e-commerce platform showcasing high-performance skateboards for
 ## Technologies Used
 - HTML
 - CSS
-- Bootstrap
-- JavaScript
 
 ## Usage
 1. Clone the repository.
