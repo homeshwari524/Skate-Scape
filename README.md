@@ -16,8 +16,6 @@ SkateScape is an e-commerce platform showcasing high-performance skateboards for
 1. Clone the repository.
 2. Open `index.html` in your web browser.
 
-## Demo
-[View Live Demo](https://homeshwari524.github.io/Skate-Scape/)
 
 ## Contributing
 We welcome contributions! Please follow our [contribution guidelines](CONTRIBUTING.md).
